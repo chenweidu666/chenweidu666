@@ -1,0 +1,3 @@
+/home/ubuntu/chenweidu666/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/chenweidu666/CMakeFiles/main.dir
+/home/ubuntu/chenweidu666/CMakeFiles/edit_cache.dir
