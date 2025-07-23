@@ -1,0 +1,21 @@
+/* 自定义样式 */
+.clothes-card {
+  transition: transform 0.2s ease-in-out;
+}
+
+.clothes-card:hover {
+  transform: translateY(-2px);
+}
+
+.image-upload {
+  border: 2px dashed #d1d5db;
+  transition: border-color 0.2s ease-in-out;
+}
+
+.image-upload:hover {
+  border-color: #3b82f6;
+}
+
+.stats-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+} 
